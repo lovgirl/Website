@@ -12,15 +12,14 @@ html {
 /* adjust typography defaults */
 
 h1 { 
-color: lightblue;}
+color: white;}
 body {
   color: pink ;
   margin: 4rem;
   font-family: sans-serif;
   line-height: 2.0;
 }
-audio {
-  line-height: 4.0}
+
 body {
-  background-image: url()
+  background-image: url(https://github.com/lovgirl/lovgirlsworld/blob/03e9b90a3ac3f9d58c418fefbd86133862f58158/anime%20blue%20water.gif)
 }
