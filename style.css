@@ -19,7 +19,8 @@ body {
   font-family: sans-serif;
   line-height: 2.0;
 }
-
+audio {
+  line-height: 4.0}
 
 body {
   background-image: src="bluerwater.gif" 
