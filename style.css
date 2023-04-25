@@ -14,12 +14,10 @@ html {
 h1 { 
 color: lightblue;}
 body {
+
   color: pink ;
   margin: 4rem;
   font-family: sans-serif;
   line-height: 4.5;
 }
 
-body {
-border: 5px solid red;
-}
