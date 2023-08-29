@@ -1,3 +1,9 @@
+.background {
+  background-image: url('bluerwater.gif');
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+}
 html { 
   
   color: pink;
@@ -14,12 +20,7 @@ html {
 h1 { 
 color: lightblue;}
 
-.background {
-  background-image: url('bluerwater.gif');
-  background-position: center;
-  background-size: cover;
-  overflow: hidden;
-}
+
 body {
 
   color: lightblue ;
