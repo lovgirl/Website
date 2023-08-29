@@ -14,7 +14,7 @@ html {
 h1 { 
 color: lightblue;}
 
-background {
+.background {
   background-image: url('bluerwater.gif');
   background-position: center;
   background-size: cover;
